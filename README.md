@@ -1,2 +1,6 @@
 # web-skeleton
-Web Skeleton is a css and javascript tools that include basic css or javascript code. With those script, you don't need to declare unnecessary code. 
+
+### css/grid12.css
+Vanilla CSS bootstrap grid 12 framework without any bootstrap dependency.
+### css/spacing.css
+CSS spacing helper for common margin & padding classes.
